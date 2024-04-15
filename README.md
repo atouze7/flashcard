@@ -1,4 +1,4 @@
-To start the server:
+To start the server:   hi
 - npm install -
 npm run server
 
