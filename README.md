@@ -1,11 +1,8 @@
 To start the server:   
 - npm install -
-- 
-npm run server
+- npm run server
 
 To start the client:
 - cd client -
-- 
-- npm install -
-- 
-npm start
+-  npm install -
+- npm start
